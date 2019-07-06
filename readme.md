@@ -5,7 +5,7 @@ This project demonstrates the Chaos Game algorithm for generating a Seirpinski T
 
 
 ### Live demo
-There is a live version available to play with on p5 online. The JavaScript is transpired from this project
+There is a live version available to play with on p5 online. The JavaScript is transpiled from this project
 [https://editor.p5js.org/PhasonMatrix/sketches/du06WCA_T](https://editor.p5js.org/PhasonMatrix/sketches/du06WCA_T)
 
 
