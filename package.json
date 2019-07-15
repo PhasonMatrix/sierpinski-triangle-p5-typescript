@@ -12,5 +12,8 @@
     "browser-sync": "^2.26.7",
     "concurrently": "^3.6.1",
     "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.14"
   }
 }
